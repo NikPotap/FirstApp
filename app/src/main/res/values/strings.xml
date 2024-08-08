@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="my_first_greeting">Хаюшки, программист!</string>
+</resources>
